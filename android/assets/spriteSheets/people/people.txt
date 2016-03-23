@@ -1,0 +1,25 @@
+people.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bus_man_surprised
+  rotate: false
+  xy: 2, 2
+  size: 289, 610
+  orig: 306, 630
+  offset: 9, 9
+  index: -1
+bus_stop_man_neutral
+  rotate: false
+  xy: 293, 2
+  size: 289, 610
+  orig: 306, 630
+  offset: 9, 9
+  index: -1
+bus_stop_man_smile
+  rotate: false
+  xy: 584, 2
+  size: 289, 610
+  orig: 306, 630
+  offset: 9, 9
+  index: -1

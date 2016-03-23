@@ -1,0 +1,27 @@
+
+pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bus_man_surprised
+  rotate: false
+  xy: 2, 2
+  size: 306, 630
+  orig: 306, 630
+  offset: 0, 0
+  index: -1
+bus_stop_man_neutral
+  rotate: false
+  xy: 310, 2
+  size: 306, 630
+  orig: 306, 630
+  offset: 0, 0
+  index: -1
+bus_stop_man_smile
+  rotate: false
+  xy: 618, 2
+  size: 306, 630
+  orig: 306, 630
+  offset: 0, 0
+  index: -1

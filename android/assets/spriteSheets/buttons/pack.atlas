@@ -1,0 +1,97 @@
+
+pack.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bus_came
+  rotate: false
+  xy: 502, 269
+  size: 185, 28
+  orig: 185, 28
+  offset: 0, 0
+  index: -1
+busarrived
+  rotate: false
+  xy: 2, 9
+  size: 198, 38
+  orig: 198, 38
+  offset: 0, 0
+  index: -1
+clickedcredit
+  rotate: false
+  xy: 471, 122
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+clickedplay
+  rotate: false
+  xy: 471, 2
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+credit
+  rotate: false
+  xy: 591, 149
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+creditbox
+  rotate: false
+  xy: 2, 242
+  size: 498, 249
+  orig: 498, 249
+  offset: 0, 0
+  index: -1
+gamerule
+  rotate: false
+  xy: 502, 299
+  size: 440, 192
+  orig: 440, 192
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 591, 29
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+reset1
+  rotate: false
+  xy: 711, 179
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+reset2
+  rotate: false
+  xy: 711, 59
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+scoreboard
+  rotate: false
+  xy: 2, 49
+  size: 467, 191
+  orig: 467, 191
+  offset: 0, 0
+  index: -1
+soundOff
+  rotate: false
+  xy: 831, 224
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+soundOn
+  rotate: false
+  xy: 831, 162
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
